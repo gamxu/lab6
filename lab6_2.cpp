@@ -38,7 +38,6 @@ double pythagoras(double xcomp, double ycomp){
 }
 
 double showResult(double vecL, double vecDi){
-    double res;
     cout << "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n\n";
     cout << "Length of the resultant vector = " << vecL << "\n";
     cout << "Direction of the resultant vector (deg) = " << vecDi << "\n\n";
