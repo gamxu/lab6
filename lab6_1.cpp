@@ -30,7 +30,7 @@ int main(){
 
     }
   
-    cout << "#Even numbers = " << countEven-1;
+    cout << "#Even numbers = " << countEven-1 << "\n";
     cout << "#Odd numbers = " << countOdd;
     return 0;
 }
